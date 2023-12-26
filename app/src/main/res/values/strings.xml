@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Food</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="hellow_user">Hellow User</string>
+    <string name="order_it">Order It</string>
+    <string name="free_delivery">Free Delivery</string>
+    <string name="todo">TODO</string>
+</resources>
